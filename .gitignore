@@ -1,0 +1,10 @@
+# PyCharm
+__pycache__/
+.idea
+
+# VSCode
+.vscode
+
+# database
+*.db
+
